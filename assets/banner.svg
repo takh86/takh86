@@ -1,0 +1,41 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1628"/>
+      <stop offset="1" stop-color="#0D1B2E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="910" y1="80" x2="1320" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0.85"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#58A6FF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1398" height="358" rx="27" stroke="#2F81F7" stroke-opacity="0.38" stroke-width="2"/>
+  <rect x="760" width="640" height="360" fill="url(#grid)"/>
+
+  <circle cx="1138" cy="74" r="5" fill="#58A6FF"/>
+  <circle cx="1260" cy="122" r="5" fill="#58A6FF"/>
+  <circle cx="1198" cy="182" r="5" fill="#58A6FF"/>
+  <circle cx="1314" cy="248" r="5" fill="#58A6FF"/>
+  <circle cx="1074" cy="260" r="5" fill="#58A6FF"/>
+  <path d="M1074 260L1198 182L1260 122L1314 248M1138 74L1260 122" stroke="url(#line)" stroke-width="2.5"/>
+  <path d="M1002 300L1074 260L1132 280L1198 182L1252 208L1314 248" stroke="#3B82F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+
+  <text x="82" y="78" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="5">BUILD • VERIFY • IMPROVE</text>
+  <text x="82" y="158" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" letter-spacing="2">TAHA HUSSEIN</text>
+  <text x="82" y="212" fill="#58A6FF" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" letter-spacing="2">BACKEND SOFTWARE ENGINEERING</text>
+  <text x="82" y="260" fill="#C9D1D9" font-family="Courier New, monospace" font-size="24">TypeScript  •  NestJS  •  PostgreSQL  •  APIs</text>
+  <line x1="82" y1="286" x2="715" y2="286" stroke="#2F81F7" stroke-opacity="0.7" stroke-width="2"/>
+  <text x="82" y="321" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="20">Building reliable software with disciplined AI-assisted engineering.</text>
+
+  <text x="1020" y="330" fill="#58A6FF" fill-opacity="0.85" font-family="Courier New, monospace" font-size="14" letter-spacing="2">HUMAN-LED • TEST-VERIFIED</text>
+</svg>
