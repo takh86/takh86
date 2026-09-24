@@ -4,35 +4,45 @@
 
 ## Hi, I'm Taha 👋
 
-I'm an **Informatics student at THM in Germany** focused on **backend software engineering** and production-oriented development.
+I'm a **backend-focused software developer based in Germany**, targeting **Junior Backend Developer / Backend Software Engineer** roles.
 
-I like turning real-world problems into structured software systems — from **requirements and architecture** to **APIs, databases, testing and deployment**.
+I build structured, maintainable backend systems with **TypeScript, Node.js, NestJS and PostgreSQL** — from requirements and system design to **REST APIs, data modeling, authentication, RBAC, testing, Docker and CI/CD**.
 
-My current path is centered on **TypeScript, NestJS, PostgreSQL, REST APIs, authentication, testing, Docker and CI/CD**. I also experiment with AI-assisted development, with one rule: **AI can accelerate the process, but engineering decisions and verification stay human-owned.**
-
-> Previous engineering experience shaped how I approach software: structured thinking, documentation, responsibility and real-world constraints.
+My goal is simple: turn real-world requirements into reliable software with clear business rules, clean architecture and verifiable engineering decisions.
 
 ---
 
-## What I build
+## Featured project
 
-| Backend Systems | Production Engineering | AI-Assisted Engineering |
-|---|---|---|
-| REST APIs | Testing | Specification |
-| Business logic | Docker | Delegation |
-| Authentication & RBAC | CI/CD | Verification |
-| Database-backed services | Security mindset | Independent review |
-| Maintainable architectures | Observability path | Human approval |
+### 🛡️ SecurePlan — B2B SaaS Workforce Planning
+
+SecurePlan is my current flagship engineering project, developed during my **Praxisphase at THM**.
+
+It addresses real backend engineering challenges around:
+
+- role-based access control (RBAC)
+- tenant isolation
+- complex business rules
+- transactional workflows
+- concurrency and idempotency
+- API and data-model design
+- testing and production readiness
+
+**Planned backend stack:** TypeScript · NestJS · PostgreSQL · REST APIs
+
+> The project is intentionally developed in phases. Requirements, architecture and engineering evidence are documented before implementation is marked complete.
+
+[![SecurePlan](https://img.shields.io/badge/Explore_SecurePlan-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takh86/SecurePlan-)
 
 ---
 
 ## Core stack
 
-### Primary
+### Backend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1628?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![NestJS](https://img.shields.io/badge/NestJS-0B1628?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![Node.js](https://img.shields.io/badge/Node.js-0B1628?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0B1628?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1628?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![REST](https://img.shields.io/badge/REST_APIs-0B1628?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
 
@@ -50,31 +60,21 @@ My current path is centered on **TypeScript, NestJS, PostgreSQL, REST APIs, auth
 
 ---
 
-## Featured engineering
+## What I build
 
-### 🛡️ SecurePlan — long-term engineering project
-
-A production-oriented workforce management system developed in the context of my **Praxisphase at THM**.
-
-**Current emphasis:** requirements engineering, system analysis, architecture, business rules, backend design, RBAC, testing and production readiness.
-
-[![SecurePlan](https://img.shields.io/badge/View_SecurePlan-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takh86/SecurePlan-)
-
-> The project is intentionally developed in phases. Planning and engineering evidence are documented before implementation is marked complete.
+| Backend Engineering | Production Engineering | Engineering Practice |
+|---|---|---|
+| REST APIs | Testing | Requirements |
+| Business logic | Docker | System design |
+| Authentication & RBAC | CI/CD | Architecture decisions |
+| Database-backed services | Monitoring | Verification |
+| Maintainable architectures | Security mindset | Human review |
 
 ---
 
-### 🧪 AI Engineering Lab
+## More engineering projects
 
-A separate portfolio for experiments in **human-led, AI-assisted software engineering**.
-
-**Focus:** spec-driven development, bounded AI delegation, cross-model review, quality gates, engineering decision logs and automated verification.
-
-[![AI Engineering Lab](https://img.shields.io/badge/Explore_AI_Engineering_Lab-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takh86/ai-engineering-lab)
-
----
-
-### ⚙️ DevOps Landing Page — team project
+### ⚙️ DevOps Landing Page — Team Project
 
 Built around a structured **GitLab CI/CD pipeline** covering build, test, security, image packaging, deployment and notifications.
 
@@ -96,7 +96,19 @@ REST-based backend application for users and blog posts.
 
 ---
 
-## My AI engineering workflow
+### 🧪 AI Engineering Lab
+
+A separate portfolio for experiments in **human-led, AI-assisted software engineering**.
+
+**Focus:** spec-driven development, bounded AI delegation, cross-model review, quality gates, engineering decision logs and automated verification.
+
+My principle is simple: AI can accelerate engineering work, but architecture, verification and final decisions remain human-owned.
+
+[![AI Engineering Lab](https://img.shields.io/badge/Explore_AI_Engineering_Lab-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takh86/ai-engineering-lab)
+
+---
+
+## AI-assisted engineering workflow
 
 ```text
 Understand
@@ -116,11 +128,9 @@ Human approval
 
 I use **ChatGPT and Claude** to accelerate research, critique, implementation and repetitive engineering work — not to replace understanding or ownership.
 
-**Engineering judgment stays human-owned.**
-
 ---
 
-## Current focus
+## Current direction
 
 ```text
 Backend
@@ -129,21 +139,22 @@ TypeScript → NestJS → PostgreSQL
 Engineering
 Testing → Docker → CI/CD
 
-Production
+Next layer
 Security → Monitoring → Cloud
 ```
 
-My goal is to grow from backend implementation into building and operating reliable production systems, with **DevOps and Cloud** as the next layer.
+My primary focus is **backend software engineering**. DevOps, Cloud and AI-assisted engineering are supporting capabilities that strengthen how I build and operate software.
 
 ---
 
-## Selected background
+## Background
 
 - 🎓 **B.Sc. Informatik — Technische Hochschule Mittelhessen (THM)**
 - 💻 Backend-focused software development with Node.js / TypeScript
 - ⚙️ Practical CI/CD and Docker project experience
-- 🧠 Building a disciplined workflow for AI-assisted software engineering
+- 🏗️ Current flagship project: SecurePlan
 - 📍 Gießen, Germany
+- 🎯 Target roles: Junior Backend Developer · Backend Software Engineer · Node.js / TypeScript Developer
 
 ---
 
