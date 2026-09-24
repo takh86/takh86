@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Taha Hussein — Backend Software Engineering" width="100%" />
+  <img src="./assets/profile-banner.jpg" alt="Taha Hussein — Backend Software Engineering" width="100%" />
 </p>
 
 ## Hi, I'm Taha 👋
